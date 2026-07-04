@@ -15,10 +15,10 @@
   
   <!-- Social Links -->
   <p>
-    <a href="https://linkedin.com/in/yourusername">
+    <a href="https://www.linkedin.com/in/hoska-effiong-a54912155/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/yourhandle">
+    <a href="https://x.com/dxicthub">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:hoskadavid@gmail.com">
@@ -37,7 +37,7 @@
 
 I'm a **Full Stack Software Engineer** passionate about building **scalable, data-driven web applications**. I specialize in creating modern dashboards, RESTful APIs, and seamless user experiences.
 
-- 🔭 **Currently working on:** A full-stack analytics dashboard with **React + Supabase**
+- 🔭 **Currently working on:** A full-stack analytics dashboard with **React + Tailwindcss   +   Supabase **
 - 🌱 **Currently learning:** Advanced PostgreSQL optimization and real-time features
 - 👯 **Looking to collaborate on:** Open-source projects that solve real-world problems
 - 💬 **Ask me about:** React, Supabase, Node.js, Tailwind CSS, or anything tech!
@@ -119,10 +119,10 @@ I'm a **Full Stack Software Engineer** passionate about building **scalable, dat
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/hoska-effiong-a54912155/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/dxicthub">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:hoskadavid@gmail.com">
