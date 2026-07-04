@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Profile Header -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hello,+I'm+Effiong+👋;Full+Stack+Software+Engineer;React+%26+Supabase+Enthusiast;Building+Scalable+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hello,+I'm+Hoska;Full+Stack+Software+Engineer;React,+TailwindCSS+%26+Supabase+Enthusiast" alt="Typing SVG" />
   
   <!-- Badges -->
   <p>
