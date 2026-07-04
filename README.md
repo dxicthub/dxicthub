@@ -15,7 +15,7 @@
   
   <!-- Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/hoska-effiong-a54912155/">
+    <a href="https://www.linkedin.com/in/hoskaeffiong/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://x.com/dxicthub">
@@ -122,7 +122,7 @@
 ## <span style="font-size: 2em; font-weight: bold;">📫 Connect With Me</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hoska-effiong-a54912155/">
+  <a href="https://www.linkedin.com/in/hoskaeffiong">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/dxicthub">
