@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/hoskaeffiong/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/dxicthub">
+    <a href="https://x.com/hoskaeffiong">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://web.facebook.com/effiongcolossus/">
@@ -125,7 +125,7 @@
   <a href="https://www.linkedin.com/in/hoskaeffiong">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/dxicthub">
+  <a href="https://x.com/hoskaeffiong">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://web.facebook.com/effiongcolossus/">
